@@ -5,6 +5,7 @@
 ## Collaborator
 
 - Dimas Bagas Saputro - Vision Owner
+- Riyan Fajri Ramadhan - FAQ WRITER
 
 ## Masalah yang ingin diselesaikan
 
