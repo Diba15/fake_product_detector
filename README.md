@@ -1,3 +1,7 @@
+# fake_product_detector
+
+Pendeteksi produk detektor
+
 # Fake Product Detector
 
 > Kebenaran pasti akan menang dengan Fake Product Detector.
@@ -6,6 +10,7 @@
 
 - Dimas Bagas Saputro - Vision Owner
 - Riyan Fajri Ramadhan - FAQ WRITER
+- Leonard Mateus (Leon): Feature Creator
 
 ## Masalah yang ingin diselesaikan
 
