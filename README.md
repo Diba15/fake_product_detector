@@ -2,6 +2,10 @@
 
 > Kebenaran pasti akan menang dengan Fake Product Detector.
 
+## Collaborator
+
+- Dimas Bagas Saputro - Vision Owner
+
 ## Masalah yang ingin diselesaikan
 
 Masalah yang tersebar di masyarakat tentang penjualan produk palsu. Aplikasi ini akan membantu masyarakat untuk mengetahui produk palsu atau bukan, sehingga dapat menghindari penjualan produk palsu yang membahayakan kesehatan.
